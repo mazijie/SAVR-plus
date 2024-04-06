@@ -1,4 +1,3 @@
-# 第一部分
 
 ## svg库部分
 
@@ -6,7 +5,6 @@
 - dataset_graph
 - dataset_img
 
-这三个文件是总库，里面的文件序号是对应着的
 
 ## python文件部分
 
@@ -16,7 +14,6 @@
 - dataset_build.py：读取dataset_img和dataset_graph里的中间形式文件，并转换为嵌入向量库
 - predictor.py：CNN模型预测层
 - encoder.py：CNN模型编码器
-- 
 
 ## 输出输出部分
 
