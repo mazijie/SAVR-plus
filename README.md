@@ -15,7 +15,7 @@
 - predictor.py：CNN模型预测层
 - encoder.py：CNN模型编码器
 
-## 输出输出部分
+## 输出部分
 
 - input:里面装的是输入的svg
 - middle:中间处理得到的png和graph文件
